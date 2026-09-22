@@ -1,0 +1,250 @@
+    1  ssh-keygen
+    2  cat ~/.ssh/id_ed25519.pub
+    3  git clone git@github.com:ykmn0/git-260525-m-fe.git
+    4  git clone git@github.com:ykmn0/git-260525-m-fe.git
+    5  git clone
+    6  git clone
+    7  git clone [200~C:\Users\John\Desktop\STARRTA\git-260525-m-fe~
+    8  C:\Users\John\Desktop\STARRTA\git-260525-m-fe
+    9  pwd
+   10  ~
+   11  cd git-260525-m-fe
+   12  cd C:\Users\John\Desktop\STARRTA\git-260525-m-fe
+   13  cd C:\Users\John\Desktop\STARRTA\git-260525-m-fe
+   14  C:\Users\John\Desktop\STARRTA\git-260525-m-f
+   15  cd C:\Users\John\Desktop\STARRTA\git-260525-m-fe
+   16  cd C:UsersJohnDesktopSTARRTAgit-260525-m-fe
+   17  cd C:\Users\John\git-260525-m-fe
+   18  cd index
+   19  cd index.html
+   20  git status
+   21  cd ~/project
+   22  git status
+   23  cd cd C:\Users\John\git-260525-m-fe
+   24  git status
+   25  git status
+   26  cd [200~C:\Users\John\Desktop\STARRTA\git-260525-m-fe~
+   27  cd C:\Users\John\Desktop\STARRTA\git-260525-m-fe
+   28  main
+   29  cd
+   30  cd C:\Users\John\Desktop\STARRTA\git-260525-m-fe
+   31  git status
+   32  cd
+   33  cd C:\Users\John\git-260525-m-fe
+   34  cd C:\Users\John\git-260525-m-fe
+   35  cd C:\Users\John\git-260525-m-fe
+   36  cd C:\Users\Johngit-260525-m-fe
+   37  cd C:\Users\John
+   38  cd C:\Users\Johncd C:\Users\Johngit-260525-m-fe\README
+   39  git status
+   40  cd git-260525-m-fe
+   41  git status
+   42  git add index.html
+   43  git status
+   44  git commit
+   45  git status
+   46  git status
+   47  git add
+   48  gid commit
+   49  git add Logfile.txt
+   50  touch probe.txt
+   51  git add probe.txt
+   52  git status
+   53  git pull
+   54  cd
+   55  git checkout
+   56  [200~git checkout
+   57  git checkout dev
+   58  cd
+   59  cd git-260525-m-fe
+   60  index
+   61  cd index
+   62  git checkout
+   63  checkout dev
+   64  git checkout dev
+   65  git checkout -b 'dev3'
+   66  git branch
+   67  git checkout main
+   68  git branch dev4
+   69  git status
+   70  git commit
+   71  git log
+   72  git status
+   73  git switch vetka1
+   74  git push
+   75  git status
+   76  git add
+   77  git status
+   78  git add
+   79  git commit
+   80  git status
+   81  git status
+   82  git add
+   83  git commit -m "full izmeneniya"
+   84  git status
+   85  git push
+   86  git status
+   87  git commit -m "Краткое описание изменений"
+   88  git commit -a "Краткое описание изменений"
+   89  git status
+   90  git commit -a
+   91  git status
+   92  git status
+   93  git restore --staged fail.css
+   94  git status
+   95  cat file1.css
+   96  git restore --staged
+   97  git checkout <dev2>
+   98  git checkout dev3
+   99  git checkout main
+  100  git checkout vetka1
+  101  git status
+  102  git add
+  103  git commit -m "добавил изменения"
+  104  git commit -a
+  105  cd git-260525-m-fe
+  106  git add
+  107  git commit -a "добавил изменение"
+  108  git add index.html
+  109  git add probe.txt
+  110  git status
+  111  git commit -m "dobavil izmeneniya"
+  112  git push main
+  113  git push dev2
+  114  git status
+  115  git restore fail1.css
+  116  git add/rm fail1.css
+  117  git status
+  118  git restore fail1.css
+  119  git push
+  120  git status
+  121  git checkout HEAD -- fail1.css
+  122  git log -- fail1.css
+  123  git status
+  124  git checkout commit_hash^ -- fail1.css
+  125  git status
+  126  git add index.html
+  127  git add script.js
+  128  git add index.html
+  129  git add index.html
+  130  git commit -m "обновил"
+  131  git status
+  132  git add .
+  133  git add index.html
+  134  ls -la
+  135  cd git-260525-m-fe
+  136  git checkout dev2
+  137  git checkout vetka1
+  138  cd ..
+  139  rm -rf git-260525-m-fe/
+  140  rm -rf git-260525-m-fe/
+  141  rm -rf git-260525-m-fe/
+  142  rm -rf git-260525-m-fe/
+  143  rm -rf git-260525-m-fe/
+  144  git clone git@github.com:ykmn0/git-260525-m-fe.git
+  145  cd git-260525-m-fe/
+  146  git checkout dev2
+  147  git branch --all
+  148  git pull
+  149  git checkout dev2
+  150  git checkout dev
+  151  git status
+  152  git add file.txt
+  153  git status
+  154  git commit -m "изменено"
+  155  git push
+  156  git status
+  157  git add index.html
+  158  git status
+  159  git commit -m "изменено (заголовок сайта)"
+  160  git push
+  161  git status
+  162  git add
+  163  git status
+  164  git add script.css
+  165  git status
+  166  git restore --staged script.css
+  167  git status
+  168  git add script.css
+  169  git status
+  170  git status
+  171  git add script.js
+  172  git status
+  173  git add script.js
+  174  git status
+  175  git status
+  176  git add script.js
+  177  git status
+  178  git status
+  179  git add script.js
+  180  git commit -m "изменено"
+  181  git push
+  182  git status
+  183  git status
+  184  git pull
+  185  git status
+  186  git status
+  187  git add script2.js
+  188  git status
+  189  git commit -m "добавлен"
+  190  git push
+  191  git status
+  192  git status
+  193  git status
+  194  pwd
+  195  git init
+  196  git status
+  197  git add .
+  198  git commit -m "newRepositories"
+  199  git remote add origin git@github.com:Pavel3329/todo_list.git
+  200  git push -u origin main
+  201  git branch -M main
+  202  git push -u origin main
+  203  git status
+  204  git add .
+  205  git status
+  206  git commit -m "complete todo_list"
+  207  git push
+  208  git clone https://github.com/Pavel3329/todo_list.git todo_list_v2
+  209  git status
+  210  cd todo_list_v2
+  211  git remote remove origin
+  212  git remote add origin https://github.com/Pavel3329/todo_list_v2.git
+  213  git push -u origin main
+  214  git remote -v
+  215  #!/bin/bash
+  216  ls -l /opt/100726-wdm
+  217  for file in /opt/100726-wdm/*.sh; do     if [ -f "$file" ]; then         chmod u+x "$file";     fi; done
+  218  #!/bin/bash
+  219  ls -l /opt/100726-wdm
+  220  for file in /opt/100726-wdm/*.sh; do     if [ -f "$file" ]; then         chmod u+x "$file";     fi; done
+  221  git clone git@github.com:Pavel3329/git-homework.git
+  222  cd git-homework
+  223  git status
+  224  touch .gitignore
+  225  cat .gitignore
+  226  touch README.md
+  227  echo "Git Homework" > README.md
+  228  cat README.md
+  229  git checkout -b feature
+  230  git branch
+  231  git status
+  232  git add .
+  233  git status
+  234  git commit -m "Add README and gitignore"
+  235  git status
+  236  git push -u origin feature
+  237  git log --oneline -1
+  238  git commit --amend -m "Add README and gitignore ammend"
+  239  git log --oneline -1
+  240  git push
+  241  git push --force
+  242  git status
+  243  git switch main
+  244  git branch
+  245  git checkout -b main
+  246  git merge feature
+  247  git branch
+  248  git log --oneline --graph --all
+  249  git push
+  250  history > history.txt
